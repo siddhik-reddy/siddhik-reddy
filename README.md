@@ -1,24 +1,114 @@
 # 👋 Hi, I'm Siddhik Reddy
 
-**Software Developer** focused on building practical applications and solving real-world problems through technology.
+### 🖥️ IT Support | Technical Support | Systems & Networking
 
-### 💻 What I Work With
+I'm an entry-level IT professional focused on **IT Support, Technical Support, system administration, networking, and troubleshooting**.
 
-`React` · `React Native` · `Node.js` · `Python` · `Linux` · `JavaScript` · `REST APIs`
+I enjoy understanding how systems work, troubleshooting technical issues, and building hands-on labs to strengthen my practical IT skills.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ IT & Technical Skills
 
-🌾 **AgriAgent** — Agriculture-focused mobile application
+### 💻 Systems & Support
+
+`Windows` · `Linux` · `System Administration` · `Troubleshooting` · `Technical Support`
+
+### 🌐 Networking
+
+`TCP/IP` · `DNS` · `DHCP` · `NAT` · `VPN` · `Networking Fundamentals`
+
+### 🔐 Identity & Security
+
+`Active Directory` · `User Management` · `Authentication` · `Access Control` · `Cybersecurity Fundamentals`
+
+### ⚙️ Tools & Technologies
+
+`PowerShell` · `Git` · `Python` · `ServiceNow` · `REST APIs`
+
+### 👨‍💻 Development Background
+
+`JavaScript` · `React` · `React Native` · `Node.js`
+
+---
+
+## 🧪 IT Homelab
+
+Currently building and practicing in a virtualized IT environment.
+
+### Active Directory Lab
+
+* Windows Server domain environment
+* Active Directory Domain Services
+* Domain and user management
+* User account creation and management
+* Password configuration and reset
+* Authentication and domain logon troubleshooting
+* Group Policy fundamentals
+* Windows client/domain interaction
+* PowerShell administration
+* IIS and web-service troubleshooting
+
+**Lab Goal:** Build practical experience with the technologies and troubleshooting scenarios commonly encountered in IT Support and System Administration roles.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 AgriAgent
+
+Agriculture-focused mobile application.
+
 🔗 [Google Play](https://play.google.com/store/apps/details?id=com.agriagent.app)
 
-👨‍💻 **Freshers Bro** — Platform focused on opportunities for freshers
+---
+
+### 👨‍💻 Freshers Bro
+
+Platform focused on opportunities for freshers.
+
 🔗 [Visit Freshers Bro](https://freshers-bro.vercel.app/)
 
 ---
 
-### 🌐 Connect With Me
+## 📚 Currently Learning
+
+* 🖥️ IT Support & Desktop Support
+* 🌐 Networking & Troubleshooting
+* 🏢 Windows Server & Active Directory
+* ⚙️ PowerShell & System Administration
+* 🎫 ServiceNow & ITSM
+* 🐧 Linux Administration
+* 🔐 Cybersecurity & SOC Fundamentals
+* ☁️ Cloud & Infrastructure Fundamentals
+
+---
+
+## 🔧 What I Like Troubleshooting
+
+```text
+User Login Issues
+       ↓
+Network Connectivity
+       ↓
+DNS / DHCP Problems
+       ↓
+Windows Issues
+       ↓
+Active Directory
+       ↓
+Permissions & Access
+       ↓
+Application / Service Issues
+```
+
+My approach:
+
+**Identify → Isolate → Troubleshoot → Resolve → Document**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -42,16 +132,20 @@
 
 ---
 
-### 🧩 Currently Building
+## 🎯 Career Focus
 
-* 🌾 Agriculture technology
-* 💻 Full-stack applications
-* 🤖 AI-assisted software
-* 🐧 Linux & system administration
-* 🔐 Cybersecurity & SOC fundamentals
+I'm currently focused on opportunities in:
+
+`IT Support` · `Technical Support` · `Desktop Support` · `Help Desk` · `System Administration` · `Service Desk`
+
+I'm particularly interested in roles where I can **troubleshoot real-world problems, support users, manage systems, and continue developing my infrastructure skills.**
 
 ---
 
 <p align="center">
-<strong>Build → Learn → Ship → Improve</strong>
+
+### 🖥️ Troubleshoot • Learn • Build • Improve
+
+<strong>Turning hands-on practice into real IT skills.</strong>
+
 </p>
