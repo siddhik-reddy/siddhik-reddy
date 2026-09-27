@@ -34,7 +34,7 @@ I enjoy understanding how systems work, troubleshooting technical issues, and bu
 
 ## 🧪 IT Homelab
 
-Currently building and practicing in a virtualized IT environment.
+Build a virtualized IT environment.
 
 ### Active Directory Lab
 
